@@ -1,5 +1,6 @@
+# CSCE1015
+Assignment repository for UNT CSCE1015
+# EUID
 vco0023
-vco0023
-1187056
-Professor Johnson
-$(YOUR_FAVORITE_PROFESSOR)
+# Professor 
+Yashu
